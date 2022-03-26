@@ -1,0 +1,30 @@
+body{
+    background-color: #04293A;
+}
+
+h1, h2, ul,ol, p{
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.parrapho{
+    font-size: xx-large;
+    text-align: justify;
+}
+.lista1{
+    font-size: 30px;
+
+}
+.lista2{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imagenPrincipal{
+    width: 25%;
+    height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
